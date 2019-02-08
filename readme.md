@@ -1,4 +1,4 @@
-
+[Link to the page](https://rabujev.github.io/js-web-1.6/)
 # Becode Template for JavaScript Exercises
 
 Hello ! This is a simple template to use in Becode's JavaScript exercises.
